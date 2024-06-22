@@ -1,0 +1,51 @@
+
+.top {
+    color: rgb(0, 85, 0);
+}
+
+.hero {
+    background-image: url("assets/heroImage5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 640px;
+  
+}
+
+.welcome {
+    margin-top: 80px;
+    color: rgb(255, 255, 255);
+}
+
+.sub {
+    margin-top: 80px;
+    color: rgb(255, 255, 255);
+}
+
+
+.cta {
+    margin-top: 80px;
+}
+
+.cards {
+    width: 1000px;
+    margin-top: 80px;
+    margin-left: 150px;
+    padding: 10px;
+}
+
+.btn {
+    padding-left: 50;
+}
+
+#input1{
+    margin-left: 50px;
+    width: 200px;
+}
+
+label {
+    margin-left: 50px;
+}
+
+.borderless {
+    border-top: 0 none;
+}
